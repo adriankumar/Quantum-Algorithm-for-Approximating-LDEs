@@ -8,3 +8,5 @@ You will need to:
 * Either set up a classiq environment locally through pip install or upload this notebook to [Classiq Studio](https://platform.classiq.io/) and run (recommended) 
 
 ~otherwise, read through results from current upload
+
+**Note: Too see interactive plots for bound experiments and classical solver comparison; upload to classiq studio and it should appear, otherwise re-run the code**
